@@ -1,0 +1,4 @@
+P1;Estufa;10;300000
+P2;Nevera;8;400000
+P3;Aire Acondicionado;7;500000
+P4;Horno Microondas;5;100000
